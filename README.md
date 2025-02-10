@@ -67,13 +67,9 @@ Hey there, I'm Borys!
 
 </div>
 
----
-
 ### About Me :
 
 Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Developer
-
----
 
 ### Languages :
 
@@ -173,8 +169,26 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
       <br>Figma
      </td>
   <td align="center" width="88">
-        <img src="./images/wordpress-logo-svgrepo-com.svg" alt="Figma" width="44" height="44"/>
-      <br>Figma
+        <img src="./images/wordpress-icon.svg" alt="Figma" width="44" height="44"/>
+      <br>WordPress
      </td>
 </table>
 </div>
+
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/ziukoff1985/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ziukoff1985&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ziukoff1985 GitHub stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/ziukoff1985/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziukoff1985&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ziukoff1985&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="ziukoff1985 GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
