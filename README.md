@@ -28,7 +28,7 @@ I am a motivated junior front-end developer who is always learning and improving
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logoColor=white">
 </p>
 
 ### 📞 Connect with me
