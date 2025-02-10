@@ -196,16 +196,13 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
 
 <table align="center">
   <tr>
-  <td>
+  <!-- <td>
   <a href="https://github.com/ziukoff1985/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ziukoff1985&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ziukoff1985 GitHub stats" /></a>
-  </td>
+  </td> -->
   <td>
   <a href="https://github.com/ziukoff1985/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziukoff1985&layout=compact&theme=buefy&hide_border=true" /></a>
   </td>
-  <!-- </tr>
-  <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ziukoff1985" alt="GitHub Streak" /></a>
-  </td>
-  </tr> -->
+  </tr>
+
 
 </table>
