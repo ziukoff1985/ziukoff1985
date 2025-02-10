@@ -188,7 +188,8 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
   </tr>
   <tr>
   <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ziukoff1985" alt="GitHub Streak" /></a>
+    ![GitHub Streak](https://streak-stats.demolab.com?user=ziukoff1985&theme=github-dark-blue&hide_border=true)
   </td>
-  </tr>
+</tr>
+
 </table>
