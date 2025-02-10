@@ -1,4 +1,4 @@
-### <div align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Borys!</div>
+### <div align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" style="vertical-align: middle;"> My name is Borys!</div>
 
 ---
 
@@ -6,7 +6,7 @@ I am a motivated junior front-end developer who is always learning and improving
 
 - 🔎 I am currently actively looking for a Junior Full-Stack Developer position
 
-- 🌱 I am in the process of learning full-stack development at [GoIT Academy](<a href="https://goit.global/ua/" target="_blank">)
+- 🌱 I am in the process of learning full-stack development at [GoIT Academy](https://goit.global/ua/)
 
 <br/>
 
