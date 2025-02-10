@@ -188,7 +188,7 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
   </tr>
   <tr>
   <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ziukoff1985&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="ziukoff1985 GitHub Readme Streak Stats" /> </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ziukoff1985" alt="GitHub Streak" /></a>
   </td>
   </tr>
 </table>
