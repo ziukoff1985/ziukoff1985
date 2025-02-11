@@ -169,7 +169,7 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
       <br>Figma
      </td>
   <td align="center" width="88">
-        <img src="./images/wordpress-icon.svg" alt="Figma" width="44" height="44"/>
+        <img src="./images/wordpress-icon.svg" alt="wordpress" width="44" height="44"/>
       <br>WordPress
      </td>
 </table>
