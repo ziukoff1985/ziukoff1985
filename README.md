@@ -191,7 +191,7 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram  />
 </a>
 <a href="https://t.me/Boris19851985" target="_blank">
-<img src=https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white alt=instagram  height="28"/>
+<img src=https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white alt=instagram  height="28"/>
 </a>
 </div>
 
