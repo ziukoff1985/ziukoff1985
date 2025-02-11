@@ -190,6 +190,7 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
 <a href="https://www.instagram.com/ziukoff/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram  />
 </a>
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Boris19851985)
 </div>
 
 ### GitHub Stats :
@@ -203,6 +204,5 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
   <a href="https://github.com/ziukoff1985/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziukoff1985&layout=compact&theme=buefy&hide_border=true" /></a>
   </td>
   </tr>
-
 
 </table>
