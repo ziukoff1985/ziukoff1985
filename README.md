@@ -71,7 +71,11 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
         <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
     </td>
-  <td align="center" width="88">
+    <td align="center" width="88">
+        <img src="./images/icons8-express-js.svg" alt="Express" width="44" height="44"/>
+      <br>Express.js
+    </td>
+    <td align="center" width="88">
         <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
       <br>Postman
     </td>
