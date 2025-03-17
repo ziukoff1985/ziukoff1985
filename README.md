@@ -34,7 +34,7 @@ Junior Front-End Developer | Passionate About Coding | Aspiring Full-Stack Devel
 ### My Skill Set :
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table style="margin: 0 auto; text-align: center;>
   <tr>
     <td width="88">
       <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
