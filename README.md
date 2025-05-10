@@ -19,7 +19,7 @@ Fullstack Developer Certificate - [GoIT School](https://goit.global/ua/)
 
 I successfully completed the "Fullstack Developer" course, mastering HTML, CSS, JavaScript, React, Node.js, and TypeScript, and completing 3 team projects. The training totaled 690 hours, including 38 technical assignments and 2 career skills tasks.
 
-[📄 View Certificate (PDF)](../ziukoff1985/assets/Borys%20Ziukov_certificate_GoIT.pdf)
+[📄 View Certificate (PDF)](https://github.com/ziukoff1985/ziukoff1985/blob/main/assets/Borys%20Ziukov_certificate_GoIT.pdf)
 
 ### Languages :
 
